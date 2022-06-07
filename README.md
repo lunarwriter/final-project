@@ -11,7 +11,7 @@ His merchandise features clothing, headgear and digital services.
 
 
 <h2 align="center">
-<img src="docs/screenshots/screenshot-homepage.PNG" alt="homepage" style="max-width:100%;">
+<img src=" " alt="homepage" style="max-width:100%;">
 </h2>
 
 <br>
@@ -190,7 +190,7 @@ __Testing User Stories from User Experience (UX) Section__
         * On the Contact Us page, after the form is submitted, the user will find themselves on a new page with a message. The navigation bar is still present and they can get back to any page by clicking on the link.
 
     <h2 align="center">
-    <img src="docs/screenshots/navigation-bar.PNG" alt="navbar" style="max-width:100%;">
+    <img src="" alt="navbar" style="max-width:100%;">
     </h2>
     
     2. As a First Time Visitor, I want to understand the main purpose of the website and learn more about the gym and its message.
@@ -200,7 +200,7 @@ __Testing User Stories from User Experience (UX) Section__
         * The user has to either scroll down the page to find out more about the website, or use the navigation bar and click on the pages they want to see.
 
     <h2 align="center">
-    <img src="docs/screenshots/hero-image-text-overlay.PNG" alt="hero image" style="max-width:100%;">
+    <img src="" alt="hero image" style="max-width:100%;">
     </h2>
 
     3. As a First Time Visitor, I want to know what other people’s previous experiences are of attending this gym and to easily find social links to keep up to date with news about the gym.
@@ -211,11 +211,11 @@ __Testing User Stories from User Experience (UX) Section__
         * The social links will open up in a new tab, so users can easily get back to the page for the gym.
     
     <h2 align="center">
-    <img src="docs/screenshots/user-reviews.PNG" alt="footer" style="max-width:100%;">
+    <img src="" alt="footer" style="max-width:100%;">
     </h2>
     
     <h2 align="center">
-    <img src="docs/screenshots/footer.PNG" alt="footer" style="max-width:100%;">
+    <img src="" alt="footer" style="max-width:100%;">
     </h2>
 
 <br>
@@ -229,15 +229,15 @@ __Testing User Stories from User Experience (UX) Section__
         * If the user scroll down, they will find six images with the class names and information about the classes.
 
     <h2 align="center">
-    <img src="docs/screenshots/classes-text.PNG" alt="footer" style="max-width:100%;">
+    <img src="" alt="footer" style="max-width:100%;">
     </h2>
 
     <h2 align="center">
-    <img src="docs/screenshots/classes-1.PNG" alt="footer" style="max-width:100%;">
+    <img src="" alt="footer" style="max-width:100%;">
     </h2>
 
     <h2 align="center">
-    <img src="docs/screenshots/classes-2.PNG" alt="footer" style="max-width:100%;">
+    <img src="" alt="footer" style="max-width:100%;">
     </h2>
 
     2.  As a Returning Visitor, I want to be able to contact the gym easily and in the best way possible.
@@ -249,7 +249,7 @@ __Testing User Stories from User Experience (UX) Section__
         * After submitting, users can choose to navigate through the website once again, by clicking the links on the navigation bar.
 
     <h2 align="center">
-    <img src="docs/screenshots/contact-page.PNG" alt="footer" style="max-width:100%;">
+    <img src="" alt="footer" style="max-width:100%;">
     </h2>
 
 <br>
@@ -306,7 +306,7 @@ __Forking the GitHub Repository__
 <br>
 
 <h2 align="center">
-<img src="docs/screenshots/git-clone-project.png" alt="clone project" style="max-width:100%;">
+<img src="" alt="clone project" style="max-width:100%;">
 </h2>
 
 <br>
