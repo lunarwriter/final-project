@@ -1,0 +1,47 @@
+[
+    {
+        "pk": "1",
+        "model": "products.product",
+        "fields": {
+            "name": "Hoodie",
+            "price": 34.99,
+            "image": "issy-k-hoodie.jpeg"
+        }
+    },
+    {
+        "pk": "2",
+        "model": "products.product",
+        "fields": {
+            "name": "Shirt",
+            "price": 14.99,
+            "image": "pexels-tshirt.jpg"
+        }
+    },
+    {
+        "pk": "3",
+        "model": "products.product",
+        "fields": {
+            "name": "Caps",
+            "price": 24.99,
+            "image": "pexels-caps.jpg"
+        }
+    },
+    {
+        "pk": "4",
+        "model": "products.product",
+        "fields": {
+            "name": "Phone Case",
+            "price": 29.99,
+            "image": "phone-case-unsplash.jpg"
+        }
+    },
+    {
+        "pk": "5",
+        "model": "products.product",
+        "fields": {
+            "name": "Logo Edit",
+            "price": 24.99,
+            "image": "issy-k-logo-3.jpeg"
+        }
+    }
+]

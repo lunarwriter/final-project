@@ -1,0 +1,26 @@
+[
+    {
+        "pk": "1",
+        "model": "products.category",
+        "fields": {
+            "name": "clothing",
+            "webname": "Clothing"
+        }
+    },
+    {
+        "pk": "2",
+        "model": "products.category",
+        "fields": {
+            "name": "accessories",
+            "webname": "Accessories"
+        }
+    },
+    {
+        "pk": "3",
+        "model": "products.category",
+        "fields": {
+            "name": "digital_services",
+            "webname": "Digital Services"
+        }
+    }
+]
