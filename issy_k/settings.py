@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 import os
+import dj_database_url
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -157,3 +158,16 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+DATABASES = {
+     'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    } 
+}
+
+
+DATABASES = {
+   'default': dj_database_url.parse(
+       'postgres://ycvbokqmzwkopt:cc00cda6aea66aa723e4585a4188d143a7be9b2f7b74382e04c48efd0e5c544b@ec2-34-248-169-69.eu-west-1.compute.amazonaws.com:5432/df87mu76bh2n38')
+}
