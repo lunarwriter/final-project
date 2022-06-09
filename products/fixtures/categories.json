@@ -4,7 +4,7 @@
         "model": "products.category",
         "fields": {
             "name": "clothing",
-            "webname": "Clothing"
+            "webname": "Clothing",
         }
     },
     {
